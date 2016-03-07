@@ -1,0 +1,66 @@
+#header-nav {
+	border-radius: 0;
+	border: 0;
+}
+
+.navbar-brand h1 {
+	font-size: 1.5em;
+	font-weight: bold;
+	text-shadow: 1px 1px 1px #222;
+	margin-top: 0;
+	margin-bottom: 0;
+	line-height: 0.75;
+}
+
+.navbar-brand a:hover, .navbar-brand a:focus {
+	text-decoration: none;
+}
+
+#nav-list a:hover {
+	background: white;
+}
+
+
+
+.menu-item {
+	border: 10px solid white;
+	/*width: 31.33%;*/
+	height: 1000px;
+	background-color: lightgrey;
+}
+
+.menu-item-title {
+	text-align: center;
+}
+
+h3 {
+	margin:0;
+	text-align: center;
+}
+
+#back {
+	position: absolute;
+	bottom:0;
+}
+
+/*.menu-item p {
+	padding:15px;
+	clear: both;
+	font-size:16px;
+}*/
+
+/*@media (min-width: 768px) and (max-width: 991px) {
+	.menu-item {
+		width: 48%;
+	}
+	.menu-item-odd {
+		width: 98%;
+	}
+}
+
+@media (max-width: 767px) {
+	.menu-item {
+		width:98%;
+	}
+
+}*/
